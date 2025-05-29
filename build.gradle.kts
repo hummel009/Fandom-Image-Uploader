@@ -26,7 +26,7 @@ java {
 }
 
 application {
-	mainClass = "com.github.hummel.fuploader.MainKt"
+	mainClass = "com.github.hummel.fiu.MainKt"
 }
 
 tasks {
@@ -34,7 +34,7 @@ tasks {
 		manifest {
 			attributes(
 				mapOf(
-					"Main-Class" to "com.github.hummel.fuploader.MainKt"
+					"Main-Class" to "com.github.hummel.fiu.MainKt"
 				)
 			)
 		}

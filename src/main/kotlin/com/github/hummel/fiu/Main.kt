@@ -1,4 +1,4 @@
-package com.github.hummel.fuploader
+package com.github.hummel.fiu
 
 import com.google.gson.JsonParser
 import org.apache.hc.client5.http.classic.methods.HttpGet
